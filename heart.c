@@ -1,4 +1,5 @@
 #include<stdio.h>
+// 爱心程序 - 第二版（演示 git 同步）
 int main(){
     float x,y,z;
 
