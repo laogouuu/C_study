@@ -1,1 +1,5 @@
 *.exe
+
+# 网络检测临时工具（不该进仓库）
+checknet.bat
+checknet.log
